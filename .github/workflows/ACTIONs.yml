@@ -31,7 +31,7 @@ env:
   DIY_P1_SH: .github/FIRST.sh
   DIY_P2_SH: .github/SECOND.sh
   UPLOAD_BIN_DIR: true
-  UPLOAD_FIRMWARE: false
+  UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
 
